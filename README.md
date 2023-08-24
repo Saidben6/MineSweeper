@@ -1,5 +1,5 @@
 # Minesweeper Game
-
+https://mine-sweeper-ashy.vercel.app/
 This repository contains a simple implementation of the classic Minesweeper game, developed in HTML, CSS and Javascript. It showcases the basic gameplay where users can reveal cells, place flags on cells and reset the game. The game ends when a mine is revealed.
 
 ## Game Features
